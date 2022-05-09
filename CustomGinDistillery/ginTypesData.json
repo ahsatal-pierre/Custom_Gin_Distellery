@@ -1,0 +1,178 @@
+[
+  {
+    "nr": 1,
+    "name": "Flat Liner",
+    "category": "bad",
+    "alcohol": "neutral",
+    "juniper": "low",
+    "body-flavour": "fruity",
+    "complexity": "simple",
+    "age": "none",
+    "catchphrase": "Please try some adult drinks first. This should never happen again."
+  },
+  {
+    "nr": 2,
+    "name": "Over the Top",
+    "category": "okay",
+    "alcohol": "flavoured",
+    "juniper": "low",
+    "body-flavour": "spicy & herbal",
+    "complexity": "complex",
+    "age": "none",
+    "catchphrase": "Going in the right direction, but outrun the goal."
+  },
+  {
+    "nr": 3,
+    "name": "Alway Yes",
+    "category": "okay",
+    "alcohol": "neutral",
+    "juniper": "low",
+    "body-flavour": "rooty",
+    "complexity": "simple",
+    "age": "none",
+    "catchphrase": "Fits in every situation, like..."
+  },
+  {
+    "nr": 4,
+    "name": "No idea, but yes",
+    "category": "good",
+    "alcohol": "flavoured",
+    "juniper": "medium",
+    "body-flavour": "fruity",
+    "complexity": "simple",
+    "age": "barrel aged",
+    "catchphrase": "Never tasted something like this before, but cool."
+  },
+  {
+    "nr": 5,
+    "name": "Spicy",
+    "category": "good",
+    "alcohol": "neutral",
+    "juniper": "low",
+    "body-flavour": "spicy & herbal",
+    "complexity": "complex",
+    "age": "none",
+    "catchphrase": "It's like a party of every spice in the world at once."
+  },
+  {
+    "nr": 6,
+    "name": "Heavy Metal",
+    "category": "okay",
+    "alcohol": "flavoured",
+    "juniper": "strong",
+    "body-flavour": "rooty",
+    "complexity": "complex",
+    "age": "none",
+    "catchphrase": "Can't stand this for long, but when I survive it, I level up"
+  },
+  {
+    "nr": 7,
+    "name": "Flower Lover",
+    "category": "okay",
+    "alcohol": "neutral",
+    "juniper": "medium",
+    "body-flavour": "spicy & herbal",
+    "complexity": "simple",
+    "age": "none",
+    "catchphrase": "Did you ever eat a flower before? You don't need anymore."
+  },
+  {
+    "nr": 8,
+    "name": "Hell of a Gin",
+    "category": "bad",
+    "alcohol": "flavoured",
+    "juniper": "strong",
+    "body-flavour": "rooty",
+    "complexity": "complex",
+    "age": "barrel aged",
+    "catchphrase": "Holy Moly! It's like Heavy Metal, without happy ending."
+  },
+  {
+    "nr": 9,
+    "name": "Best choise out of one",
+    "category": "bad",
+    "alcohol": "neutral",
+    "juniper": "low",
+    "body-flavour": "spicy & herbal",
+    "complexity": "simple",
+    "age": "barrel aged",
+    "catchphrase": "Consider to choose something else. Did you try drinking bleach? "
+  },
+  {
+    "nr": 10,
+    "name": "/*too old*/",
+    "category": "bad",
+    "alcohol": "flavoured",
+    "juniper": "medium",
+    "body-flavour": "spicy & herbal",
+    "complexity": "simple",
+    "age": "none",
+    "catchphrase": "This Gin taste like something Queen Mom would drink."
+  },
+  {
+    "nr": 11,
+    "name": "bubble Gum",
+    "category": "bad",
+    "alcohol": "neutral",
+    "juniper": "strong",
+    "body-flavour": "fruity",
+    "complexity": "complex",
+    "age": "none",
+    "catchphrase": "You know this candy with a special taste, you swear to god to never eat again? It's like this."
+  },
+  {
+    "nr": 12,
+    "name": "Gods Ambrosia",
+    "category": "good",
+    "alcohol": "flavoured",
+    "juniper": "medium",
+    "body-flavour": "spicy & herbal",
+    "complexity": "complex",
+    "age": "barrel aged",
+    "catchphrase": "With your golden tongue and depp knowledge you have proven to be a heavenly good."
+  },
+  {
+    "nr": 13,
+    "name": "Could be Vodka",
+    "category": "bad",
+    "alcohol": "neutral",
+    "juniper": "low",
+    "body-flavour": "spicy & herbal",
+    "complexity": "simple",
+    "age": "none",
+    "catchphrase": "Did you realy try? I mean, come on..."
+  },
+  {
+    "nr": 14,
+    "name": "normal Gin",
+    "category": "okay",
+    "alcohol": "neutral",
+    "juniper": "medium",
+    "body-flavour": "rooty",
+    "complexity": "simple",
+    "age": "none",
+    "catchphrase": "BORING! Please try again. And again."
+  },
+  {
+    "nr": 15,
+    "name": "Going to be extinct",
+    "category": "bad",
+    "alcohol": "flavoured",
+    "juniper": "low",
+    "body-flavour": "fruity",
+    "complexity": "complex",
+    "age": "none",
+    "catchphrase": "I'm not happy with it, but someone has to tell you: you are bad at this."
+  },
+  {
+    "nr": 16,
+    "name": "Just no. Never EVER!",
+    "category": "bad",
+    "alcohol": "flavoured",
+    "juniper": "medium",
+    "body-flavour": "rooty",
+    "complexity": "simple",
+    "age": "barrel aged",
+    "catchphrase": "How is that even possible? NO!"
+  }
+]

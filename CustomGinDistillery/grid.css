@@ -1,0 +1,26 @@
+.grid {
+  background: linear-gradient(
+      transparent 65%,
+      rgba(46, 38, 255, 0.4) 75%,
+      #7d41e6 80%,
+      rgba(46, 38, 255, 0.4) 85%,
+      transparent 95%
+    ),
+    linear-gradient(
+      90deg,
+      transparent 65%,
+      rgba(46, 38, 255, 0.4) 75%,
+      #7d41e6 80%,
+      rgba(46, 38, 255, 0.4) 85%,
+      transparent 95%
+    );
+  overflow: hidden;
+  background-size: 30px 30px;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  bottom: -120vh;
+  transform: rotateX(-100deg);
+  mask-image: linear-gradient(rgba(0, 0, 0, 1), transparent);
+  -webkit-mask-image: linear-gradient(black, rgba(0, 0, 0, 0) 80%);
+}
